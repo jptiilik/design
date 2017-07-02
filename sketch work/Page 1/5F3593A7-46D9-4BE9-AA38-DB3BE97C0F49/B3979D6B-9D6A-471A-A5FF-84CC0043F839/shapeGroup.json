@@ -1,6 +1,6 @@
 {
   "_class": "shapeGroup",
-  "do_objectID": "1C08F2E8-BDF2-4468-BDB3-0C24DAED838D",
+  "do_objectID": "B3979D6B-9D6A-471A-A5FF-84CC0043F839",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [],
@@ -11,17 +11,17 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 67,
-    "width": 67,
-    "x": 448,
-    "y": 113
+    "height": 360,
+    "width": 360,
+    "x": 336,
+    "y": 210
   },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "name": "Oval",
+  "name": "Oval Copy 2",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -70,7 +70,7 @@
   "hasClickThrough": false,
   "layers": [
     {
-      "id": "1C36C935-4759-4EB4-A757-1F2B64987B9B",
+      "id": "8EE9D803-F984-442D-BEA9-938B674EF15C",
       "class": "oval"
     }
   ],
