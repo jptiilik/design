@@ -12,8 +12,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 85,
-    "width": 359,
-    "x": 337,
+    "width": 396,
+    "x": 318.5,
     "y": 590
   },
   "isFlippedHorizontal": false,
@@ -21,7 +21,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "The design",
+  "name": "The designs",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -223,7 +223,7 @@
                 "UID": 3
               }
             },
-            "The design",
+            "The designs",
             {
               "NS.keys": [
                 {
@@ -399,7 +399,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "dontSynchroniseWithSymbol": false,
-  "glyphBounds": "{{1, 13}, {354, 69}}",
+  "glyphBounds": "{{1, 13}, {393, 69}}",
   "heightIsClipped": false,
   "lineSpacingBehaviour": 2,
   "textBehaviour": 0
