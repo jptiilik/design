@@ -1,6 +1,6 @@
 {
   "_class": "text",
-  "do_objectID": "411DFD55-C9DA-4E25-BFD5-3D7D31F6E695",
+  "do_objectID": "8EA87B01-DD50-41B6-BE41-C0C4C6B9FD13",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [],
@@ -11,19 +11,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 85,
-    "width": 396,
-    "x": 318.5,
-    "y": 590
+    "height": 24,
+    "width": 137,
+    "x": 435,
+    "y": 793
   },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "The designs",
+  "name": "Add something",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -174,7 +174,7 @@
                 },
                 "NSFontSizeAttribute",
                 "NSFontNameAttribute",
-                72,
+                20,
                 "Roboto-Bold",
                 {
                   "$classname": "NSMutableDictionary",
@@ -223,7 +223,7 @@
                 "UID": 3
               }
             },
-            "The designs",
+            "Add something",
             {
               "NS.keys": [
                 {
@@ -355,7 +355,7 @@
             },
             "NSFontSizeAttribute",
             "NSFontNameAttribute",
-            72,
+            20,
             "Roboto-Bold",
             {
               "$classname": "NSMutableDictionary",
@@ -399,7 +399,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "dontSynchroniseWithSymbol": false,
-  "glyphBounds": "{{1, 13}, {393, 69}}",
+  "glyphBounds": "{{0, 4}, {136, 20}}",
   "heightIsClipped": false,
   "lineSpacingBehaviour": 2,
   "textBehaviour": 0
