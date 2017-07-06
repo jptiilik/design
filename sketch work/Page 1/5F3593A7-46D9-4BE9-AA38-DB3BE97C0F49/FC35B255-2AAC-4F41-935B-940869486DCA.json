@@ -12,8 +12,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 145,
-    "x": 431,
+    "width": 149,
+    "x": 429,
     "y": 905
   },
   "isFlippedHorizontal": false,
@@ -21,7 +21,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Type something Copy",
+  "name": "version changed",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -223,7 +223,7 @@
                 "UID": 3
               }
             },
-            "Type something",
+            "version changed",
             {
               "NS.keys": [
                 {
@@ -399,7 +399,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "dontSynchroniseWithSymbol": false,
-  "glyphBounds": "{{0, 4}, {144, 20}}",
+  "glyphBounds": "{{0, 4}, {148, 20}}",
   "heightIsClipped": false,
   "lineSpacingBehaviour": 2,
   "textBehaviour": 0

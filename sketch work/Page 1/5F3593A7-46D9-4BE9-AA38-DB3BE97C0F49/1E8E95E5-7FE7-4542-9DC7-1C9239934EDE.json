@@ -21,9 +21,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "v.0.1.1",
+  "name": "v.0.1.2",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -223,7 +223,7 @@
                 "UID": 3
               }
             },
-            "v.0.1.1",
+            "v.0.1.2",
             {
               "NS.keys": [
                 {
@@ -399,7 +399,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "dontSynchroniseWithSymbol": false,
-  "glyphBounds": "{{0, 4}, {57, 16}}",
+  "glyphBounds": "{{0, 4}, {60, 16}}",
   "heightIsClipped": false,
   "lineSpacingBehaviour": 2,
   "textBehaviour": 0
