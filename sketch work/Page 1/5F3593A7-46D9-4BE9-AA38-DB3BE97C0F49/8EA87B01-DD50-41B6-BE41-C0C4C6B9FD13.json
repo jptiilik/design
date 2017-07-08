@@ -23,7 +23,7 @@
   "layerListExpandedType": 0,
   "name": "Add something",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -44,7 +44,7 @@
                 {
                   "NSRGB": {
                     "type": "Buffer",
-                    "data": "0.07810155349 0.1135667389 0.2779283588\u0000"
+                    "data": "0.816203773 0.007513228338 0.1066960171\u0000"
                   },
                   "NSColorSpace": 1,
                   "NSCustomColorSpace": {
@@ -257,7 +257,7 @@
             {
               "NSRGB": {
                 "type": "Buffer",
-                "data": "0.07810155349 0.1135667389 0.2779283588\u0000"
+                "data": "0.816203773 0.007513228338 0.1066960171\u0000"
               },
               "NSColorSpace": 1,
               "NSCustomColorSpace": {

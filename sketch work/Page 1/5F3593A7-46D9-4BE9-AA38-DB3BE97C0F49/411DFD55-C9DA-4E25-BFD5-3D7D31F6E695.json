@@ -44,7 +44,7 @@
                 {
                   "NSRGB": {
                     "type": "Buffer",
-                    "data": "0.07810155349 0.1135667389 0.2779283588\u0000"
+                    "data": "0 0 0\u0000"
                   },
                   "NSColorSpace": 1,
                   "NSCustomColorSpace": {
@@ -257,7 +257,7 @@
             {
               "NSRGB": {
                 "type": "Buffer",
-                "data": "0.07810155349 0.1135667389 0.2779283588\u0000"
+                "data": "0 0 0\u0000"
               },
               "NSColorSpace": 1,
               "NSCustomColorSpace": {
