@@ -1,6 +1,6 @@
 {
   "_class": "text",
-  "do_objectID": "FC35B255-2AAC-4F41-935B-940869486DCA",
+  "do_objectID": "A5A04710-6C99-4553-A102-3EA1D88F8722",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [],
@@ -11,17 +11,17 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 149,
-    "x": 429,
-    "y": 905
+    "height": 80,
+    "width": 137,
+    "x": 435,
+    "y": 828
   },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "version changed",
+  "name": "Add something this i",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -44,7 +44,7 @@
                 {
                   "NSRGB": {
                     "type": "Buffer",
-                    "data": "0.816203773 0.007513228338 0.1066960171\u0000"
+                    "data": "0.2431372549 0.6784313725 0.2470588235\u0000"
                   },
                   "NSColorSpace": 1,
                   "NSCustomColorSpace": {
@@ -91,20 +91,22 @@
               "$objects": [
                 "$null",
                 {
-                  "NSTabStops": {
-                    "UID": 0
-                  },
-                  "NSAlignment": 2,
                   "$class": {
                     "UID": 4
+                  },
+                  "NSTabStops": {
+                    "UID": 0
                   },
                   "NSTextBlocks": {
                     "UID": 2
                   },
-                  "NSAllowsTighteningForTruncation": 1,
                   "NSTextLists": {
                     "UID": 2
-                  }
+                  },
+                  "NSAllowsTighteningForTruncation": 1,
+                  "NSMaxLineHeight": 40,
+                  "NSMinLineHeight": 40,
+                  "NSAlignment": 2
                 },
                 {
                   "NS.objects": [],
@@ -223,7 +225,7 @@
                 "UID": 3
               }
             },
-            "version changed",
+            "Add something\nthis is a test",
             {
               "NS.keys": [
                 {
@@ -257,7 +259,7 @@
             {
               "NSRGB": {
                 "type": "Buffer",
-                "data": "0.816203773 0.007513228338 0.1066960171\u0000"
+                "data": "0.2431372549 0.6784313725 0.2470588235\u0000"
               },
               "NSColorSpace": 1,
               "NSCustomColorSpace": {
@@ -288,20 +290,22 @@
               ]
             },
             {
-              "NSTabStops": {
-                "UID": 0
-              },
-              "NSAlignment": 2,
               "$class": {
                 "UID": 14
+              },
+              "NSTabStops": {
+                "UID": 0
               },
               "NSTextBlocks": {
                 "UID": 12
               },
-              "NSAllowsTighteningForTruncation": 1,
               "NSTextLists": {
                 "UID": 12
-              }
+              },
+              "NSAllowsTighteningForTruncation": 1,
+              "NSMaxLineHeight": 40,
+              "NSMinLineHeight": 40,
+              "NSAlignment": 2
             },
             {
               "NS.objects": [],
@@ -399,7 +403,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "dontSynchroniseWithSymbol": false,
-  "glyphBounds": "{{0, 4}, {148, 20}}",
+  "glyphBounds": "{{0, 12}, {136, 56}}",
   "heightIsClipped": false,
   "lineSpacingBehaviour": 2,
   "textBehaviour": 0
