@@ -11,10 +11,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
+    "height": 40,
     "width": 81,
     "x": 108,
-    "y": 838
+    "y": 830
   },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -91,19 +91,21 @@
               "$objects": [
                 "$null",
                 {
+                  "$class": {
+                    "UID": 4
+                  },
                   "NSTabStops": {
                     "UID": 0
                   },
-                  "$class": {
-                    "UID": 4
+                  "NSTextLists": {
+                    "UID": 2
                   },
                   "NSTextBlocks": {
                     "UID": 2
                   },
                   "NSAllowsTighteningForTruncation": 1,
-                  "NSTextLists": {
-                    "UID": 2
-                  }
+                  "NSMaxLineHeight": 40,
+                  "NSMinLineHeight": 40
                 },
                 {
                   "NS.objects": [],
@@ -287,19 +289,21 @@
               ]
             },
             {
+              "$class": {
+                "UID": 14
+              },
               "NSTabStops": {
                 "UID": 0
               },
-              "$class": {
-                "UID": 14
+              "NSTextLists": {
+                "UID": 12
               },
               "NSTextBlocks": {
                 "UID": 12
               },
               "NSAllowsTighteningForTruncation": 1,
-              "NSTextLists": {
-                "UID": 12
-              }
+              "NSMaxLineHeight": 40,
+              "NSMinLineHeight": 40
             },
             {
               "NS.objects": [],
@@ -397,7 +401,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "dontSynchroniseWithSymbol": false,
-  "glyphBounds": "{{0, 4}, {80, 16}}",
+  "glyphBounds": "{{0, 12}, {80, 16}}",
   "heightIsClipped": false,
   "lineSpacingBehaviour": 2,
   "textBehaviour": 0
